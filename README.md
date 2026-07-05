@@ -8,7 +8,7 @@ Third-party vendors are one of the most persistent and undermanaged risk surface
 
 The framework is designed around the NIST Cybersecurity Framework (CSF) and maps vendor controls to its five core functions: Identify, Protect, Detect, Respond, and Recover. Every artefact in this repo reflects the kind of repeatable, auditable process that a GRC team at scale actually needs, not a one-off checklist.
 
-For a GRC Analyst II role, the ability to own the third-party risk lifecycle independently is table stakes. This project demonstrates that I can design the process, build the documentation, apply consistent risk logic, and produce outputs that are immediately usable by legal, security, and procurement stakeholders.
+For a GRC Analyst role, the ability to own the third-party risk lifecycle independently is table stakes. This project demonstrates that I can design the process, build the documentation, apply consistent risk logic, and produce outputs that are immediately usable by legal, security, and procurement stakeholders.
 
 ## What I Built / Key Features
 
